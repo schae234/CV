@@ -28,6 +28,8 @@ The recent availability of high-throughput technologies in agricultural species 
 Despite the extraordinary decline in cost of genotyping, the costs associated with sequencing large populations of individuals is still prohibitive. Additionally, since the vast majority of any individual's genome is identical, most population scale studies have focused on the areas of the genome which strictly have variation. In the domestic horse, we sequenced the genomes of 156 horses to survey genetic diversity within and between 32 different breeds. Out of the over 32 million variants we discovered, we used signal processing techniques to select 2 million and 670 thousand variants which provided the most information. Working with Affymetrix, a commercial genotyping manufacturer, we designed a commercial array which will be available for the entire equine community. Additionally, since we chose the most informative variants, we can leverage the structure of the genome to perform genotype imputation on the thousands of arrays which currently exist at lower densities. We have shown that with a sufficiently large number of samples, you can effectively impute hundreds of thousands of genetic markers starting from the current density of 54 thousand markers.
 
 ##Awards and Honors
+- November 2016
+  Awarded FAANG Travel Grant for the Plant and Animal Genome Conference
 - June 2016
   Invited to Mozilla All Hands Meeting to discuss open science
 - March 2016
