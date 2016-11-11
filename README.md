@@ -67,57 +67,75 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 - Competed 4 years as a Division I athlete at the University of Minnesota. Was a part of the 2007 Big Ten Conference Championship team and competed in various national and international meets including the USA National Meet and several U.S. Open Meets.
 
 ##Publications
+2016:
 - **Robert J. Schaefer**, Jean-Michel Michno, Chad L. Myers. Unraveling gene function in agricultural species using gene co-expression networks. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms. 30 July 2016. http://dx.doi.org/10.1016/j.bbagrm.2016.07.016. 
 - Mitra AK, Stessman HAF, **Schaefer RJ**, Wang W, Myers CL, Van Ness BG and Beiraghi S (2016) Fine-Mapping of 18q21.1 Locus Identifies Single Nucleotide Polymorphisms Associated with Nonsyndromic Cleft Lip with or without Cleft Palate. Front. Genet. 7:88. doi: 10.3389/fgene.2016.00088
+
+2014:
 - **Robert J. Schaefer**, Roman Briskine, Nathan M. Springer, Chad L. Myers. Discovering Functional Modules Across Diverse Maize Transcriptional Datasets Using COB, The Co-expression Browser.  PLoS ONE 12 June 2014 doi:10.1371/journal.pone.0099193.
-- Mikkel Schubert, Luca Ermini, Clio Der Sarkissian, Hákon Jónsson, Aurélien Ginolhac, **Robert Schaefer**, Michael D. Martin, Ruth Fernández, Martin Kircher, Molly McCue, Eske Willerslev, Ludovic Orlando. Characterization of ancient and modern genomes by SNP detection and phylogenomic and metagenomic analysis using PALEOMIX. Nature Protocols 9, 1056-1082 (2014)  doi:10.1038/nprot.2014.063.    
+- Mikkel Schubert, Luca Ermini, Clio Der Sarkissian, Hákon Jónsson, Aurélien Ginolhac, **Robert Schaefer**, Michael D. Martin, Ruth Fernández, Martin Kircher, Molly McCue, Eske Willerslev, Ludovic Orlando. Characterization of ancient and modern genomes by SNP detection and phylogenomic and metagenomic analysis using PALEOMIX. Nature Protocols 9, 1056-1082 (2014)  doi:10.1038/nprot.2014.063.
+
+2013:
 - Annette McCoy, **Robert Schaefer**, Jessica Peterson, Peter Morrell, Megan Slamka, James Mickelson, Stephanie Valberg, Molly McCue. Evidence of Positive Selection for a Glycogen Synthase (GYS1) Mutation in Domestic Horse Populations. Journal of Heredity. 2013. doi: 10.1093/jhered/est075
+
+2012:
 - Terje Raudsepp, Molly E. McCue, Pranab J. Das, Lauren Dobson, Monika Vishnoi, Krista L. Fritz, **Robert Schaefer**, Aaron K. Rendahl, James N. Derr, Charles C. Love, Dickson D. Varner, Bhanu P. Chowdhary Genome-Wide Association Study Implicates Testis-Sperm Specific FKBP6 as a Susceptibility Locus for Impaired Acrosome Reaction in Stallions. PloS Genet 2012 8:e1003139. doi:10.1371/journal.pgen.1003139
 - Ruth Swanson-Wagner, Roman Briskine, **Robert Schaefer**, Matthew B. Hufford, Jeffrey Ross-Ibarra, Chad L. Myers, Peter Tiffin, and Nathan M. Springer. Reshaping of the maize transcriptome by domestication. PNAS 2012 109:11878-11883
 
 
 ##Meetings and Talks
-- October 2016, College of Veterinary Medicine Research Days, St. Paul, MN -- Poster
+2016:
+- College of Veterinary Medicine Research Days, St. Paul, MN -- Poster
 Unraveling gene function using co-expression networks and haplotype maps in the domestic horse
-- September 2016, Postdoctoral Association Poster Symposium, Minneapolis, MN -- Poster
+- Postdoctoral Association Poster Symposium, Minneapolis, MN -- Poster
 Surveying the transcriptional landscape of skeletal muscle and adipose tissue biology to identify breed-related insulin sensitivity and other metabolic traits in the domestic horse
-- August 2016, 4th Annual BICB Industry Symposium, Minneapolis, MN -- Poster
+- 4th Annual BICB Industry Symposium, Minneapolis, MN -- Poster
 Improving the organization of collective data resources using BotBot
-- March 2016, Maize Genetics Conference, Jacksonville, FL -- Poster
+- Maize Genetics Conference, Jacksonville, FL -- Poster
 Camoco: Systematically Integrating co-expression networks to detect causal genes for genome wide association studies in Zea mays
-- January  2016,  Plant and Animal Genome Conference, San Diego, CA -- Poster
+- Plant and Animal Genome Conference, San Diego, CA -- Poster
 A Functional Network in the Horse: Discovering Causal Variants for Complex Disease
-- January  2016,  Plant and Animal Genome Conference, San Diego, CA -- Poster
+- Plant and Animal Genome Conference, San Diego, CA -- Poster
 Systematic Integration of GWAS with Co-Expression Networks to Detect Causal Genes for Elemental Accumulation in Zea Mays and Arabidopsis thaliana Using Camoco
-- November 2015, PhD Defense, Minneapolis, MN -- Seminar
+
+2015:
+- PhD Defense, Minneapolis, MN -- Seminar
 Integrating co-expression networks with GWAS to detect causal genes for agronomically important traits
-- August 2015, BICB Industry Symposium, Minneapolis, MN -- Poster
+- BICB Industry Symposium, Minneapolis, MN -- Poster
 LocusPocus: Genomic coordinates as a fundamental datatype in python
-- March 2015, CSHL Networks Meeting, Cold Spring Harbor, NY -- Poster
+- CSHL Networks Meeting, Cold Spring Harbor, NY -- Poster
 Integrating co-expression networks with GWAS to detect causal genes for agronomically important traits
-- March 2015, Maize Genetics Conference, St. Charles, IL -- Talk
+- Maize Genetics Conference, St. Charles, IL -- Talk
 Integrating tissue specific co-expression networks with NAM GWAS reduces candidate gene sets by orders of magnitude
-- January 2015, Equine Genetics Workshop, Plant and Animal Genomics, San Diego, CA -- Talk/Poster
+- Equine Genetics Workshop, Plant and Animal Genomics, San Diego, CA -- Talk/Poster
 Selection of Tagging SNPs and imputation efficiency of the 670K commercial SNP chip
-- December 2014, Donald Danforth Plant Science Center Seminar -- Talk
+
+2014:
+- Donald Danforth Plant Science Center Seminar -- Talk
 Computational techniques for characterizing agronomically important traits in non-model species. St. Louis, MO. 2014.
-- November 2014, Doctoral Dissertation Fellowship Graduate Fellow Seminar -- Talk
+- Doctoral Dissertation Fellowship Graduate Fellow Seminar -- Talk
 Discovering Agriculturally Important Genes in Non-model Species Using Biological "Social Networks". Minneapolis, MN. 2014.
-- August 2014, Biomedical Informatics and Computational Biology Industry Symposium -- Talk
+- Biomedical Informatics and Computational Biology Industry Symposium -- Talk
 Computational techniques for characterizing agriculturally important genes in non-model species. Minneapolis, MN. 2014.
-- March 2014, Maize Genetics Meeting -- Poster
+- Maize Genetics Meeting -- Poster
 Systems biology approaches for integrating datasets identifying genes related to iron bioavailability in maize. Beijing, China. 2014.
-- January 2014, Equine Genome Workshop, Plant And Animal Genomics, San Diego, CA -- Talk
+-  Equine Genome Workshop, Plant And Animal Genomics, San Diego, CA -- Talk
 Haplotype Discovery and an Imputation Resource for the Domestic Horse.
-- April 2013,  Leibniz Institute for Plant Genetics, Gatersleben Germany -- Talk
+
+2013:
+- Leibniz Institute for Plant Genetics, Gatersleben Germany -- Talk
 Leveraging Functional Networks to Better Characterize Candidate Genes in Plant Biology. iHub Student Exchange. Gatersleben Germany. 2013.
-- March 2013, Maize Genetics Conference -- Poster
+- Maize Genetics Conference -- Poster
 Rob Schaefer, Roman Briskine, Owen Hoekenga, Ivan Baxter, Nathan Spring, Chad Myers. Detecting Causal Genes for Maize Agronomic Traits Using CoExpression Networks. Maize Genetics Conference. St Charles, IL. 2013. 
-- February 2013, Oral Prelims, Minneapolis, MN -- Seminar
+- Oral Prelims, Minneapolis, MN -- Seminar
 Detecting causal genes for maize agronomic traits using co-expression networks
-- March 2012, Maize Genetics Meeting -- Poster
+
+2012:
+- Maize Genetics Meeting -- Poster
 Rob Schaefer, Roman Briskine, Ruth Swanson-Wagner, Nathan Springer, Chad L Myers. COB: The CoExpression Browser -- A Web Application For Integrating and Browsing Genome Scale Transcriptional Networks. Maize Genetics Meeting. Portland, OR. 2012.
-- January 2012 -- Acknowledged in PLoS Genetics Article    
+- Acknowledged in PLoS Genetics Article    
 McCue ME, Bannasch DL, Petersen JL, Gurr J, Bailey E, Binns MM, Distl O, Guérin G, Hasegawa T, Hill EW, Leeb T, Lindgren G, Penedo MC, Røed KH, Ryder OA, Swinburne JE, Tozaki T, Valberg SJ, Vaudin M, Lindblad-Toh K, Wade CM, Mickelson JR. A high density SNP array for the domestic horse and extant Perissodactyla: utility for association mapping, genetic diversity, and phylogeny studies. PLoS Genet. 2012 Jan;8(1):e1002451. Epub 2012 Jan 12.
+
+2011:
 - January 2011, Plant and Animal Genome Meeting -- Poster 
 Genome-wide association studies and gene expression profiling in Thoroughbred stallions with acrosomal dysfunction. Terje Raudsepp, Molly E. McCue, Pranab J. Das, Monika Vishnoi, Krista L. Fritz, Robert Schaefer, Aaron K. Rendahl, Steve Brinsko, Charles C. Love, James R. Mickelso, Bhanu. P. Chowdhary, Dickson, D. Varner. Plant and Animal Genome Meeting. January 2011.
