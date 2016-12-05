@@ -68,6 +68,7 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 
 ##Publications
 2016:
+- Lin Li, Roman Briskine, **Robert Schaefer**, Patrick S. Schnable, Chad L. Myers, Lex E. Flagel, Nathan M. Springer and Gary J. Muehlbauer. Co-expression network analysis of duplicate genes in maize (Zea mays L.) reveals no subgenome bias. BMC Genomics. 4 November 2016. doi:10.1186/s12864-016-3194-0
 - **Robert J. Schaefer**, Jean-Michel Michno, Chad L. Myers. Unraveling gene function in agricultural species using gene co-expression networks. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms. 30 July 2016. http://dx.doi.org/10.1016/j.bbagrm.2016.07.016. 
 - Mitra AK, Stessman HAF, **Schaefer RJ**, Wang W, Myers CL, Van Ness BG and Beiraghi S (2016) Fine-Mapping of 18q21.1 Locus Identifies Single Nucleotide Polymorphisms Associated with Nonsyndromic Cleft Lip with or without Cleft Palate. Front. Genet. 7:88. doi: 10.3389/fgene.2016.00088
 
