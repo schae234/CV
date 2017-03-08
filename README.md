@@ -10,6 +10,8 @@
 - 2015 - PhD Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
 - 2010 - B.S. Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
 
+##Current Funding
+- NIFA Postdoctoral Fellowship (Principle Investigator)
 
 ##Research Interests
 One of the consequences of next generation DNA sequencing technology has been the rapid adoption in non-model organisms. This surge in technology has enabled us to examine highly complex traits in non-model organisms which have substantial affect on human well being. Techniques for analyzing and applying information derived from next generation sequencing data do not always directly translate to non-model species. My research interests lie in developing novel approaches for next generation sequencing data coupled with machine learning and statistical modeling in order to extract meaningful insight rooted in complex biological systems.
@@ -28,8 +30,11 @@ The recent availability of high-throughput technologies in agricultural species 
 Despite the extraordinary decline in cost of genotyping, the costs associated with sequencing large populations of individuals is still prohibitive. Additionally, since the vast majority of any individual's genome is identical, most population scale studies have focused on the areas of the genome which strictly have variation. In the domestic horse, we sequenced the genomes of 156 horses to survey genetic diversity within and between 32 different breeds. Out of the over 32 million variants we discovered, we used signal processing techniques to select 2 million and 670 thousand variants which provided the most information. Working with Affymetrix, a commercial genotyping manufacturer, we designed a commercial array which will be available for the entire equine community. Additionally, since we chose the most informative variants, we can leverage the structure of the genome to perform genotype imputation on the thousands of arrays which currently exist at lower densities. We have shown that with a sufficiently large number of samples, you can effectively impute hundreds of thousands of genetic markers starting from the current density of 54 thousand markers.
 
 ##Awards and Honors
+- January 2017
+  - Awarded UMII Updraft grant to attend a Network Biology Meeting in Cold Spring Harbor
+  - Awarded Microbial and Plant Genomics Institute travel grant to present research at the Maize Genetics Conference
 - November 2016
-  Awarded FAANG Travel Grant for the Plant and Animal Genome Conference
+  Awarded FAANG Travel Grant for the 2017 Plant and Animal Genome Conference
 - June 2016
   Invited to Mozilla All Hands Meeting to discuss open science
 - March 2016
@@ -67,6 +72,9 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 - Competed 4 years as a Division I athlete at the University of Minnesota. Was a part of the 2007 Big Ten Conference Championship team and competed in various national and international meets including the USA National Meet and several U.S. Open Meets.
 
 ##Publications
+2017: 
+- (submitted) **Robert J Schaefer**, Mikkel Schubert, Ernest Bailey, Danika L. Bannasch, Eric Barrey, Gila Kahila Bar-Gal, Gottfried Brem, Samantha A. Brooks, Ottmar Distl, Ruedi Fries, Carrie J. Finno, Vinzenz Gerber, Bianca Haase, Vidhya Jagannathan, Ted Kalbfleisch, Tosso Leeb, Gabriella Lindgren, Maria Susana Lopes, Nuria Mach, Artur da Câmara Machado, James N. MacLeod, Annette McCoy, Julia Metzger, Cecilia Penedo, Sagi Polani, Stefan Rieder, Imke Tammen, Jens Tetens, Georg Thaller, Andrea Verini-Supplizi, Claire M. Wade, Barbara Wallner, Ludovic Orlando, James R. Mickelson, Molly E. McCue. *Development of a high-density, 2M SNP genotyping array and 670k SNP imputation array for the domestic horse.* doi: https://doi.org/10.1101/112979.
+
 2016:
 - Lin Li, Roman Briskine, **Robert Schaefer**, Patrick S. Schnable, Chad L. Myers, Lex E. Flagel, Nathan M. Springer and Gary J. Muehlbauer. Co-expression network analysis of duplicate genes in maize (Zea mays L.) reveals no subgenome bias. BMC Genomics. 4 November 2016. doi:10.1186/s12864-016-3194-0
 - **Robert J. Schaefer**, Jean-Michel Michno, Chad L. Myers. Unraveling gene function in agricultural species using gene co-expression networks. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms. 30 July 2016. http://dx.doi.org/10.1016/j.bbagrm.2016.07.016. 
@@ -85,6 +93,14 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 
 
 ##Meetings and Talks
+2017:
+- Maize Genetics Conference, St Louis, MO -- Poster
+Integrating Co-Expression Networks with GWAS to Detect Causal Genes Driving Elemental Accumulation in Maize
+- Plant and Animal Genome Conference, San Diego, CA -- Talk
+Unraveling gene function using gene co-expression networks in the domestic horse
+- Plant and Animal Genome Conference, San Diego, CA -- Poster
+Camoco: a computational framework for inter-relating GWAS loci and unraveling gene function using co-expression networks
+
 2016:
 - College of Veterinary Medicine Research Days, St. Paul, MN -- Poster
 Unraveling gene function using co-expression networks and haplotype maps in the domestic horse
