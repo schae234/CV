@@ -89,7 +89,7 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 
 2012:
 - Terje Raudsepp, Molly E. McCue, Pranab J. Das, Lauren Dobson, Monika Vishnoi, Krista L. Fritz, **Robert Schaefer**, Aaron K. Rendahl, James N. Derr, Charles C. Love, Dickson D. Varner, Bhanu P. Chowdhary Genome-Wide Association Study Implicates Testis-Sperm Specific FKBP6 as a Susceptibility Locus for Impaired Acrosome Reaction in Stallions. PloS Genet 2012 8:e1003139. doi: https://doi.org/10.1371/journal.pgen.1003139
-- Ruth Swanson-Wagner, Roman Briskine, **Robert Schaefer**, Matthew B. Hufford, Jeffrey Ross-Ibarra, Chad L. Myers, Peter Tiffin, and Nathan M. Springer. Reshaping of the maize transcriptome by domestication. PNAS 2012 109:11878-11883
+- Ruth Swanson-Wagner, Roman Briskine, **Robert Schaefer**, Matthew B. Hufford, Jeffrey Ross-Ibarra, Chad L. Myers, Peter Tiffin, and Nathan M. Springer. Reshaping of the maize transcriptome by domestication. PNAS 2012 109:11878-11883 doi: https://doi.org/10.1073/pnas.1201961109
 
 
 ## Meetings and Talks
