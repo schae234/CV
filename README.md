@@ -81,7 +81,7 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 - Mitra AK, Stessman HAF, **Schaefer RJ**, Wang W, Myers CL, Van Ness BG and Beiraghi S (2016) Fine-Mapping of 18q21.1 Locus Identifies Single Nucleotide Polymorphisms Associated with Nonsyndromic Cleft Lip with or without Cleft Palate. Front. Genet. 7:88. doi: https://doi.org/10.3389/fgene.2016.00088
 
 2014:
-- **Robert J. Schaefer**, Roman Briskine, Nathan M. Springer, Chad L. Myers. Discovering Functional Modules Across Diverse Maize Transcriptional Datasets Using COB, The Co-expression Browser.  PLoS ONE 12 June 2014 doi:10.1371/journal.pone.0099193.
+- **Robert J. Schaefer**, Roman Briskine, Nathan M. Springer, Chad L. Myers. Discovering Functional Modules Across Diverse Maize Transcriptional Datasets Using COB, The Co-expression Browser.  PLoS ONE 12 June 2014 doi: https://doi.org/10.1371/journal.pone.0099193.
 - Mikkel Schubert, Luca Ermini, Clio Der Sarkissian, Hákon Jónsson, Aurélien Ginolhac, **Robert Schaefer**, Michael D. Martin, Ruth Fernández, Martin Kircher, Molly McCue, Eske Willerslev, Ludovic Orlando. Characterization of ancient and modern genomes by SNP detection and phylogenomic and metagenomic analysis using PALEOMIX. Nature Protocols 9, 1056-1082 (2014)  https://doi.org/10.1038/nprot.2014.063.
 
 2013:
