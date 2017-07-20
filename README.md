@@ -73,7 +73,7 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 
 ## Publications
 2017: 
-- (submitted) **Robert J Schaefer**, Mikkel Schubert, Ernest Bailey, Danika L. Bannasch, Eric Barrey, Gila Kahila Bar-Gal, Gottfried Brem, Samantha A. Brooks, Ottmar Distl, Ruedi Fries, Carrie J. Finno, Vinzenz Gerber, Bianca Haase, Vidhya Jagannathan, Ted Kalbfleisch, Tosso Leeb, Gabriella Lindgren, Maria Susana Lopes, Nuria Mach, Artur da Câmara Machado, James N. MacLeod, Annette McCoy, Julia Metzger, Cecilia Penedo, Sagi Polani, Stefan Rieder, Imke Tammen, Jens Tetens, Georg Thaller, Andrea Verini-Supplizi, Claire M. Wade, Barbara Wallner, Ludovic Orlando, James R. Mickelson, Molly E. McCue. *Development of a high-density, 2M SNP genotyping array and 670k SNP imputation array for the domestic horse.* doi: https://doi.org/10.1101/112979.
+- **Robert J Schaefer**, Mikkel Schubert, Ernest Bailey, Danika L. Bannasch, Eric Barrey, Gila Kahila Bar-Gal, Gottfried Brem, Samantha A. Brooks, Ottmar Distl, Ruedi Fries, Carrie J. Finno, Vinzenz Gerber, Bianca Haase, Vidhya Jagannathan, Ted Kalbfleisch, Tosso Leeb, Gabriella Lindgren, Maria Susana Lopes, Nuria Mach, Artur da Câmara Machado, James N. MacLeod, Annette McCoy, Julia Metzger, Cecilia Penedo, Sagi Polani, Stefan Rieder, Imke Tammen, Jens Tetens, Georg Thaller, Andrea Verini-Supplizi, Claire M. Wade, Barbara Wallner, Ludovic Orlando, James R. Mickelson, Molly E. McCue. *Development of a high-density, 2M SNP genotyping array and 670k SNP imputation array for the domestic horse.* BMC Genomics. 2017; DOI: https://doi.org/10.1101/112979.
 
 - Barbara Wallner, Nicola Palmieri, Claus Vogl, Doris Rigler, Elif Bozlak, Thomas Druml, Vidhya Jagannathan, Tosso Leeb, Ruedi Fries, Jens Tetens, Georg Thaller, Julia Metzger, Ottmar Distl, Gabriella Lindgren, Carl-Johan Rubin, Leif Andersson, **Robert Schaefer**, Molly McCue, Markus Neuditschko, Stefan Rieder, Christian Schlötterer, Gottfried Brem. Y Chromosome Uncovers the Recent Oriental Origin of Modern Stallions. Current Biology, 2017; DOI: 10.1016/j.cub.2017.05.086
 
@@ -97,6 +97,9 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 
 ## Meetings and Talks
 2017:
+- ISAG, Dublin, Ireland
+    - Unraveling gene function using co-expression networks in the domestic horse (Talk and poster) https://doi.org/10.6084/m9.figshare.5203732.v1
+    - Design and use of the MNEc670k SNP array for precision SNP imputation to millions of markers in 15 horse breeds (poster) https://doi.org/10.6084/m9.figshare.5203852.v1 
 - Maize Genetics Conference, St Louis, MO -- Poster
 Integrating Co-Expression Networks with GWAS to Detect Causal Genes Driving Elemental Accumulation in Maize
 - Plant and Animal Genome Conference, San Diego, CA -- Talk
