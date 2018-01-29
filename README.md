@@ -3,7 +3,7 @@
 - Robert James Schaefer 
 - Github: github.com/schae234 (37 Repos)
 - Twitter: @CSciBio
-
+- OrcidID: 0000-0001-9455-5805
 
 ## Education
 - **Current** - USDA NIFA Postdoctoral Fellow University of Minnesota, St Paul, MN
@@ -98,8 +98,8 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 ## Meetings and Talks
 2017:
 - ISAG, Dublin, Ireland
-    - Unraveling gene function using co-expression networks in the domestic horse (Talk and poster) https://doi.org/10.6084/m9.figshare.5203732.v1
-    - Design and use of the MNEc670k SNP array for precision SNP imputation to millions of markers in 15 horse breeds (poster) https://doi.org/10.6084/m9.figshare.5203852.v1 
+    - Unraveling gene function using co-expression networks in the domestic horse (Talk and poster) https://doi.org/10.6084/m9.figshare.5203732
+    - Design and use of the MNEc670k SNP array for precision SNP imputation to millions of markers in 15 horse breeds (poster) https://doi.org/10.6084/m9.figshare.5203852 
 - Maize Genetics Conference, St Louis, MO -- Poster
 Integrating Co-Expression Networks with GWAS to Detect Causal Genes Driving Elemental Accumulation in Maize
 - Plant and Animal Genome Conference, San Diego, CA -- Talk
