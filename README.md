@@ -1,6 +1,6 @@
-# CURRICULUM VITAE
+<h1 align='center'> CURRICULUM VITAE </h1>
 
-# Robert James Schaefer 
+<h1 align='center'> Robert James Schaefer </h1>
 
 ## Contacts
 - Email: rob@linkage.io
@@ -9,32 +9,107 @@
 - OrcidID: 0000-0001-9455-5805
 
 ## Appointments and Positions
-- 2017 - **Current** - Founder of Linkage Analylics, St Paul, MN
-- 2018 - **Current** - Postdoctoral Associate, University of Minnesota, St Paul, MN
-- 2016 - 2018 - USDA NIFA Postdoctoral Research Fellow, University of Minnesota, St Paul, MN
+- 2017 - **Current** - Founder of Linkage Analytics, Denver, CO
+- 2018 - **Current** - Postdoctoral Associate, Department of Population Medicine, University of Minnesota
+- 2016 - 2018 - USDA NIFA Postdoctoral Research Fellow, Department of Veterinary Population Medicine, University of Minnesota
 
 ## Education
-- 2015 - PhD Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
-- 2010 - B.S. Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
+- 2015 - Ph.D., Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
+- 2010 - B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
 
 ## Past Funding
 - [NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) (Principle Investigator)
 
+## Volunteering and Service
+- Host and Mentor for Mozilla Open Leadership Program
+- Site Host for Mozilla Global Code Spring (4 years)
+- Figshare Ambassador 
+
 ## Research Interests
-One of the consequences of next generation DNA sequencing technology has been the rapid adoption in non-model organisms. This surge in technology has enabled us to examine highly complex traits in non-model organisms which have substantial affect on human well being. Techniques for analyzing and applying information derived from next generation sequencing data do not always directly translate to non-model species. My research interests lie in developing novel approaches for next generation sequencing data coupled with machine learning and statistical modeling in order to extract meaningful insight rooted in complex biological systems.
+One of the consequences of next generation DNA sequencing technology has been
+the rapid adoption in non-model organisms. This surge in technology has enabled
+us to examine highly complex traits in non-model organisms which have
+substantial affect on human well being. Techniques for analyzing and applying
+information derived from next generation sequencing data do not always directly
+translate to non-model species. My research interests lie in developing novel
+approaches for next generation sequencing data coupled with machine learning
+and statistical modeling in order to extract meaningful insight rooted in
+complex biological systems.
 
 ## Current Research
 ### Discovering causal variants for complex disease using functional networks in the horse
-The recent availability of high throughput technologies in agricultural animals provides an opportunity to advance our understanding of complex, agriculturally important traits. Genome wide association studies have identified thousands of loci linked to agriculturally important traits; however in most cases the causal gene remains unknown. Assessing a single data type can often miss complex models that require variation across multiple levels of biological regulation. Integrating several sources of unbiased, genomic information allows for efficient ranking of interesting candidate regions discovered by GWAS. We propose building tools to integrate available sources of genomic data in the horse to build a multi-staged data integration model for prioritization of QTL candidate genes. Using these tools, we will investigate Equine Metabolic Syndrome (EMS) in a disease specific (case-control) meta-dimensional model by integrating whole genome SNP data, muscle and adipose RNAseq, and metabolomic data from horses phenotyped for EMS.
-We hypothesize an integrated, network based approach will better explain the genotype to phenotype relationship of EMS than any single dataset alone. Linking phenotype to causal genes is critical to understanding the biology underlying traits, and in the context of disease, the identification of potential preventative measures and therapeutic targets. The results of this study have the potential to substantially expand our understanding of the molecular and genetic factors that contribute to the pathophysiology of EMS, and improve our ability to predict disease risk. Furthermore, since this approach is generalizable to any phenotype of interest, our long term goal is to develop tools that allow integration of genomic and other high-dimensional datasets to better understand complex phenotypic traits and extend them to other agricultural animals. We will deploy these tools using Cyverse as a developmental platform ensuring any research group generating association data will be able to use our tools.
+The recent availability of high throughput technologies in agricultural animals
+provides an opportunity to advance our understanding of complex, agriculturally
+important traits. Genome wide association studies have identified thousands of
+loci linked to agriculturally important traits; however in most cases the
+causal gene remains unknown. Assessing a single data type can often miss
+complex models that require variation across multiple levels of biological
+regulation. Integrating several sources of unbiased, genomic information allows
+for efficient ranking of interesting candidate regions discovered by GWAS. We
+propose building tools to integrate available sources of genomic data in the
+horse to build a multi-staged data integration model for prioritization of QTL
+candidate genes. Using these tools, we will investigate Equine Metabolic
+Syndrome (EMS) in a disease specific (case-control) meta-dimensional model by
+integrating whole genome SNP data, muscle and adipose RNAseq, and metabolomic
+data from horses phenotyped for EMS.
+
+We hypothesize an integrated, network based approach will better explain the
+genotype to phenotype relationship of EMS than any single dataset alone.
+Linking phenotype to causal genes is critical to understanding the biology
+underlying traits, and in the context of disease, the identification of
+potential preventative measures and therapeutic targets. The results of this
+study have the potential to substantially expand our understanding of the
+molecular and genetic factors that contribute to the pathophysiology of EMS,
+and improve our ability to predict disease risk. Furthermore, since this
+approach is generalizable to any phenotype of interest, our long term goal is
+to develop tools that allow integration of genomic and other high-dimensional
+datasets to better understand complex phenotypic traits and extend them to
+other agricultural animals. We will deploy these tools using Cyverse as a
+developmental platform ensuring any research group generating association data
+will be able to use our tools.
 
 
 ### Integrating Co-Expression Networks with GWAS to Detect Causal Genes For Agronomically Important Traits
-The recent availability of high-throughput technologies in agricultural species provides an opportunity to advance our understanding of complex, agronomically important traits. Genome wide association studies (GWAS) have identified thousands of loci linked to these traits; however in most cases the causal genes remain unknown. Analysis of a single data type is typically unsatisfactory in explaining complex traits that exhibit variation across multiple levels of biological regulation. To address these issues, we developed a computational framework called Camoco (Co-analysis of molecular components) that systematically integrates loci identified by GWAS with gene co-expression networks to identify a focused set of candidate loci with functional coherence. This framework analyzes the overlap between candidate loci generated from GWAS and the co-expression interactions that occur between them and addresses several biological considerations important for integrating diverse data types. On average, using this integrated approach, candidate gene lists identified by GWAS were reduced by two orders of magnitude. By incorporating co-expression network information, we can rapidly evaluate hundreds of GWAS experiments, producing focused sets of candidates with both strong associations with the phenotype of interest as well as evidence for functional coherence in the co-expression network. Identifying these candidates in a systematic and integrated manner is an important step toward resolving genes responsible for agriculturally important traits.
+The recent availability of high-throughput technologies in agricultural species
+provides an opportunity to advance our understanding of complex, agronomically
+important traits. Genome wide association studies (GWAS) have identified
+thousands of loci linked to these traits; however in most cases the causal
+genes remain unknown. Analysis of a single data type is typically
+unsatisfactory in explaining complex traits that exhibit variation across
+multiple levels of biological regulation. To address these issues, we developed
+a computational framework called Camoco (Co-analysis of molecular components)
+that systematically integrates loci identified by GWAS with gene co-expression
+networks to identify a focused set of candidate loci with functional coherence.
+This framework analyzes the overlap between candidate loci generated from GWAS
+and the co-expression interactions that occur between them and addresses
+several biological considerations important for integrating diverse data types.
+On average, using this integrated approach, candidate gene lists identified by
+GWAS were reduced by two orders of magnitude. By incorporating co-expression
+network information, we can rapidly evaluate hundreds of GWAS experiments,
+producing focused sets of candidates with both strong associations with the
+phenotype of interest as well as evidence for functional coherence in the
+co-expression network. Identifying these candidates in a systematic and
+integrated manner is an important step toward resolving genes responsible for
+agriculturally important traits.
 
 
 ### Developing a high density genotyping chip and imputation resource for the domestic horse
-Despite the extraordinary decline in cost of genotyping, the costs associated with sequencing large populations of individuals is still prohibitive. Additionally, since the vast majority of any individual's genome is identical, most population scale studies have focused on the areas of the genome which strictly have variation. In the domestic horse, we sequenced the genomes of 156 horses to survey genetic diversity within and between 32 different breeds. Out of the over 32 million variants we discovered, we used signal processing techniques to select 2 million and 670 thousand variants which provided the most information. Working with Affymetrix, a commercial genotyping manufacturer, we designed a commercial array which will be available for the entire equine community. Additionally, since we chose the most informative variants, we can leverage the structure of the genome to perform genotype imputation on the thousands of arrays which currently exist at lower densities. We have shown that with a sufficiently large number of samples, you can effectively impute hundreds of thousands of genetic markers starting from the current density of 54 thousand markers.
+Despite the extraordinary decline in cost of genotyping, the costs associated
+with sequencing large populations of individuals is still prohibitive.
+Additionally, since the vast majority of any individual's genome is identical,
+most population scale studies have focused on the areas of the genome which
+strictly have variation. In the domestic horse, we sequenced the genomes of 156
+horses to survey genetic diversity within and between 32 different breeds. Out
+of the over 32 million variants we discovered, we used signal processing
+techniques to select 2 million and 670 thousand variants which provided the
+most information. Working with Affymetrix, a commercial genotyping
+manufacturer, we designed a commercial array which will be available for the
+entire equine community. Additionally, since we chose the most informative
+variants, we can leverage the structure of the genome to perform genotype
+imputation on the thousands of arrays which currently exist at lower densities.
+We have shown that with a sufficiently large number of samples, you can
+effectively impute hundreds of thousands of genetic markers starting from the
+current density of 54 thousand markers.
 
 ## Awards and Honors
 - January 2017
