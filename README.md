@@ -1,17 +1,24 @@
 # CURRICULUM VITAE
 
-- Robert James Schaefer 
-- Github: github.com/schae234 (37 Repos)
+# Robert James Schaefer 
+
+## Contacts
+- Email: rob@linkage.io
+- Github: github.com/schae234 (60 Repos)
 - Twitter: @CSciBio
 - OrcidID: 0000-0001-9455-5805
 
+## Appointments and Positions
+- 2017 - **Current** - Founder of Linkage Analylics, St Paul, MN
+- 2018 - **Current** - Postdoctoral Associate, University of Minnesota, St Paul, MN
+- 2016 - 2018 - USDA NIFA Postdoctoral Research Fellow, University of Minnesota, St Paul, MN
+
 ## Education
-- **Current** - USDA NIFA Postdoctoral Fellow University of Minnesota, St Paul, MN
 - 2015 - PhD Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
 - 2010 - B.S. Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
 
-## Current Funding
-- NIFA Postdoctoral Fellowship (Principle Investigator)
+## Past Funding
+- [NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) (Principle Investigator)
 
 ## Research Interests
 One of the consequences of next generation DNA sequencing technology has been the rapid adoption in non-model organisms. This surge in technology has enabled us to examine highly complex traits in non-model organisms which have substantial affect on human well being. Techniques for analyzing and applying information derived from next generation sequencing data do not always directly translate to non-model species. My research interests lie in developing novel approaches for next generation sequencing data coupled with machine learning and statistical modeling in order to extract meaningful insight rooted in complex biological systems.
@@ -19,7 +26,7 @@ One of the consequences of next generation DNA sequencing technology has been th
 ## Current Research
 ### Discovering causal variants for complex disease using functional networks in the horse
 The recent availability of high throughput technologies in agricultural animals provides an opportunity to advance our understanding of complex, agriculturally important traits. Genome wide association studies have identified thousands of loci linked to agriculturally important traits; however in most cases the causal gene remains unknown. Assessing a single data type can often miss complex models that require variation across multiple levels of biological regulation. Integrating several sources of unbiased, genomic information allows for efficient ranking of interesting candidate regions discovered by GWAS. We propose building tools to integrate available sources of genomic data in the horse to build a multi-staged data integration model for prioritization of QTL candidate genes. Using these tools, we will investigate Equine Metabolic Syndrome (EMS) in a disease specific (case-control) meta-dimensional model by integrating whole genome SNP data, muscle and adipose RNAseq, and metabolomic data from horses phenotyped for EMS.
-We hypothesize an integrated, network based approach will better explain the genotype to phenotype relationship of EMS than any single dataset alone. Linking phenotype to causal genes is critical to understanding the biology underlying traits, and in the context of disease, the identification of potential preventative measures and therapeutic targets. The results of this study have the potential to substantially expand our understanding of the molecular and genetic factors that contribute to the pathophysiology of EMS, and improve our ability to predict disease risk. Furthermore, since this approach is generalizable to any phenotype of interest, our long term goal is to develop tools that allow integration of genomic and other high-dimensional datasets to better understand complex phenotypic traits and extend them to other agricultural animals. We will deploy these tools using iAnimal as a developmental platform ensuring any research group generating association data will be able to use our tools.
+We hypothesize an integrated, network based approach will better explain the genotype to phenotype relationship of EMS than any single dataset alone. Linking phenotype to causal genes is critical to understanding the biology underlying traits, and in the context of disease, the identification of potential preventative measures and therapeutic targets. The results of this study have the potential to substantially expand our understanding of the molecular and genetic factors that contribute to the pathophysiology of EMS, and improve our ability to predict disease risk. Furthermore, since this approach is generalizable to any phenotype of interest, our long term goal is to develop tools that allow integration of genomic and other high-dimensional datasets to better understand complex phenotypic traits and extend them to other agricultural animals. We will deploy these tools using Cyverse as a developmental platform ensuring any research group generating association data will be able to use our tools.
 
 
 ### Integrating Co-Expression Networks with GWAS to Detect Causal Genes For Agronomically Important Traits
