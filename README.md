@@ -1,6 +1,6 @@
 <h1 align='center'> CURRICULUM VITAE </h1>
 
-<h1 align='center'> Robert James Schaefer </h1>
+<h1 align='center'> Robert James Schaefer, PhD </h1>
 
 ## Contacts
 - Email: rob@linkage.io
@@ -17,13 +17,14 @@
 - 2015 - Ph.D., Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
 - 2010 - B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
 
-## Past Funding
-- [NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) (Principle Investigator)
+## Community and Service
+- Host and Mentor for [Mozilla Open Leadership Program](https://mozilla.github.io/leadership-training/)
+- Co-Chair of [FAANG Integrative Genomics and Network Biology Working Group](https://www.faang.org/groups?ticket=&name=analysis-network&email=)
+- Site Host for [Mozilla Global Code Sprint](https://mozilla.github.io/global-sprint/) (4 years)
+- [Figshare Ambassador](https://figshare.com/ambassadors)
 
-## Volunteering and Service
-- Host and Mentor for Mozilla Open Leadership Program
-- Site Host for Mozilla Global Code Spring (4 years)
-- Figshare Ambassador 
+## Federal Funding
+- 2015-2018 : [NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) (Principle Investigator)
 
 ## Research Interests
 One of the consequences of next generation DNA sequencing technology has been
@@ -70,7 +71,7 @@ will be able to use our tools.
 
 
 ### Integrating Co-Expression Networks with GWAS to Detect Causal Genes For Agronomically Important Traits
-The recent availability of high-throughput technologies in agricultural species
+High-throughput technologies in agricultural species
 provides an opportunity to advance our understanding of complex, agronomically
 important traits. Genome wide association studies (GWAS) have identified
 thousands of loci linked to these traits; however in most cases the causal
@@ -148,20 +149,19 @@ Teaching Assistant, Dept. of Computer Science, CSCI 3003: Introduction to Comput
 - 2008-2010
 Research Assistant, Dept. of Animal Science and Veterinary Medicine, University of Minnesota, MN
 
-## Hobbies and Personal Life
-- Founder of the University of Minnesota Hackey Hour Club 
-- Active participant and contributor to the Mozilla Science Lab
-- Competed 4 years as a Division I athlete at the University of Minnesota. Was a part of the 2007 Big Ten Conference Championship team and competed in various national and international meets including the USA National Meet and several U.S. Open Meets.
-
 ## Publications
-2017: 
-- **Robert J Schaefer**, Mikkel Schubert, Ernest Bailey, Danika L. Bannasch, Eric Barrey, Gila Kahila Bar-Gal, Gottfried Brem, Samantha A. Brooks, Ottmar Distl, Ruedi Fries, Carrie J. Finno, Vinzenz Gerber, Bianca Haase, Vidhya Jagannathan, Ted Kalbfleisch, Tosso Leeb, Gabriella Lindgren, Maria Susana Lopes, Nuria Mach, Artur da Câmara Machado, James N. MacLeod, Annette McCoy, Julia Metzger, Cecilia Penedo, Sagi Polani, Stefan Rieder, Imke Tammen, Jens Tetens, Georg Thaller, Andrea Verini-Supplizi, Claire M. Wade, Barbara Wallner, Ludovic Orlando, James R. Mickelson, Molly E. McCue. *Development of a high-density, 2M SNP genotyping array and 670k SNP imputation array for the domestic horse.* BMC Genomics. 2017; DOI: https://doi.org/10.1101/112979.
+2018:
+- (in prep) Felipe Avila, James R. Mickelson, **Robert J. Schaefer**, Molly E. McCue. Genome-wide signatures of selection reveal genes associated with performance in American Quarter Horse subpopulations.
+- (submitted) Victor Mason, **Robert Schaefer**, Molly McCue, Tosso Leeb, Vinzenz Gerber. eQTL Discovery and their Association with Severe Equine Asthma in European Warmblood Horses.
 
+2017: 
+- **Robert J Schaefer**, Jean-Michel Michno, Joseph Jeffers, Owen Hoekenga, Brian Dilkes, Ivan Baxter, Chad Myers. Integrating co-expression networks with GWAS to prioritize causal genes in maize. bioRxiv. DOI: https://doi.org/10.1101/221655 
+- S.A. Durward-Akhurst, **R.J. Schaefer**, J.R. Mickelson, M.E. McCue. Understanding genetic variation in the equine population. Journal of Equine Veterinary Medicine. DOI: https://doi.org/10.1016/j.jevs.2017.03.088 
+- **Robert J Schaefer**, Mikkel Schubert, Ernest Bailey, Danika L. Bannasch, Eric Barrey, Gila Kahila Bar-Gal, Gottfried Brem, Samantha A. Brooks, Ottmar Distl, Ruedi Fries, Carrie J. Finno, Vinzenz Gerber, Bianca Haase, Vidhya Jagannathan, Ted Kalbfleisch, Tosso Leeb, Gabriella Lindgren, Maria Susana Lopes, Nuria Mach, Artur da Câmara Machado, James N. MacLeod, Annette McCoy, Julia Metzger, Cecilia Penedo, Sagi Polani, Stefan Rieder, Imke Tammen, Jens Tetens, Georg Thaller, Andrea Verini-Supplizi, Claire M. Wade, Barbara Wallner, Ludovic Orlando, James R. Mickelson, Molly E. McCue. *Development of a high-density, 2M SNP genotyping array and 670k SNP imputation array for the domestic horse.* BMC Genomics. 2017; DOI: https://doi.org/10.1101/112979.
 - Barbara Wallner, Nicola Palmieri, Claus Vogl, Doris Rigler, Elif Bozlak, Thomas Druml, Vidhya Jagannathan, Tosso Leeb, Ruedi Fries, Jens Tetens, Georg Thaller, Julia Metzger, Ottmar Distl, Gabriella Lindgren, Carl-Johan Rubin, Leif Andersson, **Robert Schaefer**, Molly McCue, Markus Neuditschko, Stefan Rieder, Christian Schlötterer, Gottfried Brem. Y Chromosome Uncovers the Recent Oriental Origin of Modern Stallions. Current Biology, 2017; DOI: 10.1016/j.cub.2017.05.086
 
 2016:
 - Lin Li, Roman Briskine, **Robert Schaefer**, Patrick S. Schnable, Chad L. Myers, Lex E. Flagel, Nathan M. Springer and Gary J. Muehlbauer. Co-expression network analysis of duplicate genes in maize (Zea mays L.) reveals no subgenome bias. BMC Genomics. 4 November 2016. doi: https://doi.org/10.1186/s12864-016-3194-0
-
 - **Robert J. Schaefer**, Jean-Michel Michno, Chad L. Myers. Unraveling gene function in agricultural species using gene co-expression networks. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms. 30 July 2016. http://dx.doi.org/10.1016/j.bbagrm.2016.07.016. 
 - Mitra AK, Stessman HAF, **Schaefer RJ**, Wang W, Myers CL, Van Ness BG and Beiraghi S (2016) Fine-Mapping of 18q21.1 Locus Identifies Single Nucleotide Polymorphisms Associated with Nonsyndromic Cleft Lip with or without Cleft Palate. Front. Genet. 7:88. doi: https://doi.org/10.3389/fgene.2016.00088
 
@@ -178,30 +178,27 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 
 
 ## Meetings and Talks
+2018:
+- (Software demo) Plant and Animal Genome Conference, San Diego, CA. Identifying High Priority Candidate Genes from GWAS using Co-Expression Networks.
+
 2017:
-- ISAG, Dublin, Ireland
-    - Unraveling gene function using co-expression networks in the domestic horse (Talk and poster) https://doi.org/10.6084/m9.figshare.5203732
-    - Design and use of the MNEc670k SNP array for precision SNP imputation to millions of markers in 15 horse breeds (poster) https://doi.org/10.6084/m9.figshare.5203852 
-- Maize Genetics Conference, St Louis, MO -- Poster
-Integrating Co-Expression Networks with GWAS to Detect Causal Genes Driving Elemental Accumulation in Maize
-- Plant and Animal Genome Conference, San Diego, CA -- Talk
-Unraveling gene function using gene co-expression networks in the domestic horse
-- Plant and Animal Genome Conference, San Diego, CA -- Poster
-Camoco: a computational framework for inter-relating GWAS loci and unraveling gene function using co-expression networks
+- (talk) Hamline Bio Seminar. From the laptop to the field: using computer science to unravel gene function in agricultural plants and animals.
+- (talk) 9th International Conference on Canine and Feline Genetics and Genomics. SNP Chip Data Imputation: Equine Example.
+- (talk) NIFA PD Meeting, Washington DC. From corn to horses: crossing kingdoms and translating computational methods developed in one agricultural species to another.
+- (talk) ISAG, Dublin, Ireland
+- (poster) ISAG, Dublin, Ireland. Unraveling gene function using co-expression networks in the domestic horse (Talk and poster) https://doi.org/10.6084/m9.figshare.5203732
+- (poster) ISAG, Dublin Ireland. Design and use of the MNEc670k SNP array for precision SNP imputation to millions of markers in 15 horse breeds (poster) https://doi.org/10.6084/m9.figshare.5203852 
+- (poster) Maize Genetics Conference, St Louis, MO. Integrating Co-Expression Networks with GWAS to Detect Causal Genes Driving Elemental Accumulation in Maize
+- (talk) Plant and Animal Genome Conference, San Diego, CA. Unraveling gene function using gene co-expression networks in the domestic horse
+- (poster) Plant and Animal Genome Conference, San Diego, CA. Camoco: a computational framework for inter-relating GWAS loci and unraveling gene function using co-expression networks
 
 2016:
-- College of Veterinary Medicine Research Days, St. Paul, MN -- Poster
-Unraveling gene function using co-expression networks and haplotype maps in the domestic horse
-- Postdoctoral Association Poster Symposium, Minneapolis, MN -- Poster
-Surveying the transcriptional landscape of skeletal muscle and adipose tissue biology to identify breed-related insulin sensitivity and other metabolic traits in the domestic horse
-- 4th Annual BICB Industry Symposium, Minneapolis, MN -- Poster
-Improving the organization of collective data resources using BotBot
-- Maize Genetics Conference, Jacksonville, FL -- Poster
-Camoco: Systematically Integrating co-expression networks to detect causal genes for genome wide association studies in Zea mays
-- Plant and Animal Genome Conference, San Diego, CA -- Poster
-A Functional Network in the Horse: Discovering Causal Variants for Complex Disease
-- Plant and Animal Genome Conference, San Diego, CA -- Poster
-Systematic Integration of GWAS with Co-Expression Networks to Detect Causal Genes for Elemental Accumulation in Zea Mays and Arabidopsis thaliana Using Camoco
+- (poster) College of Veterinary Medicine Research Days, St. Paul, MN. Unraveling gene function using co-expression networks and haplotype maps in the domestic horse
+- (poster) Postdoctoral Association Poster Symposium, Minneapolis, MN. Surveying the transcriptional landscape of skeletal muscle and adipose tissue biology to identify breed-related insulin sensitivity and other metabolic traits in the domestic horse
+- (poster) 4th Annual BICB Industry Symposium, Minneapolis, MN. Improving the organization of collective data resources using BotBot
+- (poster) Maize Genetics Conference, Jacksonville, FL. Camoco: Systematically Integrating co-expression networks to detect causal genes for genome wide association studies in Zea mays
+- (poster) Plant and Animal Genome Conference, San Diego, CA. A Functional Network in the Horse: Discovering Causal Variants for Complex Disease
+- (poster) Plant and Animal Genome Conference, San Diego, CA. Systematic Integration of GWAS with Co-Expression Networks to Detect Causal Genes for Elemental Accumulation in Zea Mays and Arabidopsis thaliana Using Camoco
 
 2015:
 - PhD Defense, Minneapolis, MN -- Seminar
