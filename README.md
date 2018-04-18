@@ -191,6 +191,7 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 - (poster) ISAG, Dublin Ireland. Design and use of the MNEc670k SNP array for precision SNP imputation to millions of markers in 15 horse breeds (poster) https://doi.org/10.6084/m9.figshare.5203852 
 - (poster) Maize Genetics Conference, St Louis, MO. Integrating Co-Expression Networks with GWAS to Detect Causal Genes Driving Elemental Accumulation in Maize
 - (talk) Plant and Animal Genome Conference, San Diego, CA. Unraveling gene function using gene co-expression networks in the domestic horse
+- (poster) Unraveling gene function using gene co-expression networks in the domestic horse. CSHL Networks Meeting, Cold Spring Harbor, NY. March 2017.
 - (poster) Plant and Animal Genome Conference, San Diego, CA. Camoco: a computational framework for inter-relating GWAS loci and unraveling gene function using co-expression networks
 
 2016:
