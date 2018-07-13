@@ -4,7 +4,7 @@
 
 ## Contacts
 - Email: rob@linkage.io
-- Github: github.com/schae234 (60 Repos)
+- Github: github.com/schae234
 - Twitter: @CSciBio
 - OrcidID: 0000-0001-9455-5805
 
@@ -14,8 +14,9 @@
 - 2016 - 2018 - USDA NIFA Postdoctoral Research Fellow, Department of Veterinary Population Medicine, University of Minnesota
 
 ## Education
-- 2015 - Ph.D., Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
-- 2010 - B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
+- 2015-18 - USDA NIFA AFRI Postdoctoral Fellow, University of Minnesota, St Paul, MN
+- 2010-15 - Ph.D., Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
+- 2006-10 - B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
 
 ## Community and Service
 - Host and Mentor for [Mozilla Open Leadership Program](https://mozilla.github.io/leadership-training/)
