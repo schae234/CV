@@ -9,7 +9,7 @@
 - OrcidID: 0000-0001-9455-5805
 
 ## Appointments and Positions
-- 2017 - **Current** - Founder of Linkage Analytics, Denver, CO
+- 2017 - **Current** - Founder of [Linkage Analytics](http://linkage.io), Denver, CO
 - 2018 - **Current** - Postdoctoral Associate, Department of Population Medicine, University of Minnesota
 - 2016 - 2018 - USDA NIFA Postdoctoral Research Fellow, Department of Veterinary Population Medicine, University of Minnesota
 
@@ -152,8 +152,8 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 
 ## Publications
 2018:
-- (in prep) Felipe Avila, James R. Mickelson, **Robert J. Schaefer**, Molly E. McCue. Genome-wide signatures of selection reveal genes associated with performance in American Quarter Horse subpopulations.
-- (submitted) Victor Mason, **Robert Schaefer**, Molly McCue, Tosso Leeb, Vinzenz Gerber. eQTL Discovery and their Association with Severe Equine Asthma in European Warmblood Horses.
+- Felipe Avila, James R. Mickelson, **Robert J. Schaefer**, Molly E. McCue. Genome-wide signatures of selection reveal genes associated with performance in American Quarter Horse subpopulations. Frontiers in Genetics - Livestock Genomics (in press).
+- Victor Mason, **Robert Schaefer**, Molly McCue, Tosso Leeb, Vinzenz Gerber. eQTL Discovery and their Association with Severe Equine Asthma in European Warmblood Horses. BMC Genomics (in press).
 
 2017: 
 - **Robert J Schaefer**, Jean-Michel Michno, Joseph Jeffers, Owen Hoekenga, Brian Dilkes, Ivan Baxter, Chad Myers. Integrating co-expression networks with GWAS to prioritize causal genes in maize. bioRxiv. DOI: https://doi.org/10.1101/221655 
