@@ -24,8 +24,11 @@
 - Site Host for [Mozilla Global Code Sprint](https://mozilla.github.io/global-sprint/) (4 years)
 - [Figshare Ambassador](https://figshare.com/ambassadors)
 
-## Federal Funding
-- 2015-2018 : [NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) (Principle Investigator)
+## Current Cunding
+- 2018 : $7,445 - XSEDE (TG-MCB180114) - Cloud based containers and workflows for genomic tools in the horse.
+
+## Past Funding
+- 2015-2018 : $150,000 - [USDA NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) - Discovering causal variants for complex disease using functional networks in the horse (Principle Investigator)
 
 ## Research Interests
 One of the consequences of next generation DNA sequencing technology has been
