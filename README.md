@@ -24,7 +24,7 @@
 - Site Host for [Mozilla Global Code Sprint](https://mozilla.github.io/global-sprint/) (4 years)
 - [Figshare Ambassador](https://figshare.com/ambassadors)
 
-## Current Cunding
+## Current Funding
 - 2018 : $7,445 - XSEDE (TG-MCB180114) - Cloud based containers and workflows for genomic tools in the horse.
 
 ## Past Funding
