@@ -9,14 +9,14 @@
 - OrcidID: 0000-0001-9455-5805
 
 ## Appointments and Positions
-- 2017 - **Current** - Founder of [Linkage Analytics](http://linkage.io), Denver, CO
-- 2018 - **Current** - Postdoctoral Associate, Department of Population Medicine, University of Minnesota
-- 2016 - 2018 - USDA NIFA Postdoctoral Research Fellow, Department of Veterinary Population Medicine, University of Minnesota
+- 2017-**Current**: Founder of [Linkage Analytics](http://linkage.io), Denver, CO
+- 2018-**Current**: Postdoctoral Associate, Department of Population Medicine, University of Minnesota
+- 2016-2018: USDA NIFA Postdoctoral Research Fellow, Department of Veterinary Population Medicine, University of Minnesota
 
 ## Education
-- 2015-18 - USDA NIFA AFRI Postdoctoral Fellow, University of Minnesota, St Paul, MN
-- 2010-15 - Ph.D., Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
-- 2006-10 - B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
+- 2015-18: USDA NIFA AFRI Postdoctoral Fellow, University of Minnesota, St Paul, MN
+- 2010-15: Ph.D., Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
+- 2006-10: B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
 
 ## Community and Service
 - Guest Associate Editor for Frontiers in [Integrative Genomics and Network Biology in Livestock and other Domestic Animals](https://www.frontiersin.org/research-topics/8507/integrative-genomics-and-network-biology-in-livestock-and-other-domestic-animals)
@@ -26,10 +26,11 @@
 - [Figshare Ambassador](https://figshare.com/ambassadors)
 
 ## Current Funding
-- 2018 : $7,445 - XSEDE (TG-MCB180114) - Cloud based containers and workflows for genomic tools in the horse.
+- 2018 (PI): $7,445 - XSEDE (TG-MCB180114) - Cloud based containers and workflows for genomic tools in the horse.
+- 2017-Current (Co-PI): USDA NIFA (2017-67015-26296) - Tools to Link Phenotype to Genotype in the Horse.
 
 ## Past Funding
-- 2015-2018 : $150,000 - [USDA NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) - Discovering causal variants for complex disease using functional networks in the horse (Principle Investigator)
+- 2015-2018 (PI) : $150,000 - [USDA NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) - Discovering causal variants for complex disease using functional networks in the horse
 
 ## Research Interests
 One of the consequences of next generation DNA sequencing technology has been
@@ -150,18 +151,16 @@ current density of 54 thousand markers.
   Received the University of Minnesota Interdisciplinary Informatics Initiative fellowship.
 
 ## Previous Professional Positions and Appointments
-- 2013-2014
-Teaching Assistant, Dept. of Computer Science, CSCI 3003: Introduction to Computation in Biology, University of Minnesota, MN
-- 2008-2010
-Research Assistant, Dept. of Animal Science and Veterinary Medicine, University of Minnesota, MN
+- 2013-2014: Teaching Assistant, Dept. of Computer Science, CSCI 3003: Introduction to Computation in Biology, University of Minnesota, MN
+- 2008-2010: Research Assistant, Dept. of Animal Science and Veterinary Medicine, University of Minnesota, MN
 
 ## Publications
 2018:
-- Felipe Avila, James R. Mickelson, **Robert J. Schaefer**, Molly E. McCue. Genome-wide signatures of selection reveal genes associated with performance in American Quarter Horse subpopulations. Frontiers in Genetics - Livestock Genomics (in press).
-- Victor Mason, **Robert Schaefer**, Molly McCue, Tosso Leeb, Vinzenz Gerber. eQTL Discovery and their Association with Severe Equine Asthma in European Warmblood Horses. BMC Genomics (in press).
+- **Robert J Schaefer**, Jean-Michel Michno, Joseph Jeffers, Owen Hoekenga, Brian Dilkes, Ivan Baxter, Chad Myers. Integrating co-expression networks with GWAS to prioritize causal genes in maize. bioRxiv. DOI: https://doi.org/10.1101/221655 (in press)
+- Felipe Avila, James R. Mickelson, **Robert J. Schaefer**, Molly E. McCue. Genome-wide signatures of selection reveal genes associated with performance in American Quarter Horse subpopulations. Frontiers in Genetics - Livestock Genomics. DOI: https://doi.org/10.3389/fgene.2018.00249
+- Victor Mason, **Robert Schaefer**, Molly McCue, Tosso Leeb, Vinzenz Gerber. eQTL Discovery and their Association with Severe Equine Asthma in European Warmblood Horses. BMC Genomics. DOI: https://doi.org/10.1186/s12864-018-4938-9
 
 2017: 
-- **Robert J Schaefer**, Jean-Michel Michno, Joseph Jeffers, Owen Hoekenga, Brian Dilkes, Ivan Baxter, Chad Myers. Integrating co-expression networks with GWAS to prioritize causal genes in maize. bioRxiv. DOI: https://doi.org/10.1101/221655 
 - S.A. Durward-Akhurst, **R.J. Schaefer**, J.R. Mickelson, M.E. McCue. Understanding genetic variation in the equine population. Journal of Equine Veterinary Medicine. DOI: https://doi.org/10.1016/j.jevs.2017.03.088 
 - **Robert J Schaefer**, Mikkel Schubert, Ernest Bailey, Danika L. Bannasch, Eric Barrey, Gila Kahila Bar-Gal, Gottfried Brem, Samantha A. Brooks, Ottmar Distl, Ruedi Fries, Carrie J. Finno, Vinzenz Gerber, Bianca Haase, Vidhya Jagannathan, Ted Kalbfleisch, Tosso Leeb, Gabriella Lindgren, Maria Susana Lopes, Nuria Mach, Artur da Câmara Machado, James N. MacLeod, Annette McCoy, Julia Metzger, Cecilia Penedo, Sagi Polani, Stefan Rieder, Imke Tammen, Jens Tetens, Georg Thaller, Andrea Verini-Supplizi, Claire M. Wade, Barbara Wallner, Ludovic Orlando, James R. Mickelson, Molly E. McCue. *Development of a high-density, 2M SNP genotyping array and 670k SNP imputation array for the domestic horse.* BMC Genomics. 2017; DOI: https://doi.org/10.1101/112979.
 - Barbara Wallner, Nicola Palmieri, Claus Vogl, Doris Rigler, Elif Bozlak, Thomas Druml, Vidhya Jagannathan, Tosso Leeb, Ruedi Fries, Jens Tetens, Georg Thaller, Julia Metzger, Ottmar Distl, Gabriella Lindgren, Carl-Johan Rubin, Leif Andersson, **Robert Schaefer**, Molly McCue, Markus Neuditschko, Stefan Rieder, Christian Schlötterer, Gottfried Brem. Y Chromosome Uncovers the Recent Oriental Origin of Modern Stallions. Current Biology, 2017; DOI: http://doi.org/10.1016/j.cub.2017.05.086
@@ -185,6 +184,7 @@ Research Assistant, Dept. of Animal Science and Veterinary Medicine, University 
 
 ## Meetings and Talks
 2018:
+- (talk/demo) Havemeyer Horse Genetics Workshop, Pavia, Italy. Processing tens of millions of genotypes with HapDab and analyzing tissue specific gene co-expression networks with Camoco.
 - (Software demo) Plant and Animal Genome Conference, San Diego, CA. Identifying High Priority Candidate Genes from GWAS using Co-Expression Networks.
 
 2017:
