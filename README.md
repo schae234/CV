@@ -9,14 +9,14 @@
 - OrcidID: 0000-0001-9455-5805
 
 ## Appointments and Positions
-- 2017-**Current**: Founder of [Linkage Analytics](http://linkage.io), Denver, CO
-- 2018-**Current**: Postdoctoral Associate, Department of Population Medicine, University of Minnesota
+- 2017 - **Current**: Founder of [Linkage Analytics](http://linkage.io), Denver, CO
+- 2018 - **Current**: Postdoctoral Associate, Department of Population Medicine, University of Minnesota
 - 2016-2018: USDA NIFA Postdoctoral Research Fellow, Department of Veterinary Population Medicine, University of Minnesota
 
 ## Education
-- 2015-18: USDA NIFA AFRI Postdoctoral Fellow, University of Minnesota, St Paul, MN
-- 2010-15: Ph.D., Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
-- 2006-10: B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
+- 2015 - 18: USDA NIFA AFRI Postdoctoral Fellow, University of Minnesota, St Paul, MN
+- 2010 - 15: Ph.D., Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, MN
+- 2006 - 10: B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
 
 ## Community and Service
 - Guest Associate Editor for Frontiers in [Integrative Genomics and Network Biology in Livestock and other Domestic Animals](https://www.frontiersin.org/research-topics/8507/integrative-genomics-and-network-biology-in-livestock-and-other-domestic-animals)
