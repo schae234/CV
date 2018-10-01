@@ -19,6 +19,7 @@
 - 2006-10 - B.S., Computer Science, University of Minnesota, Institute of Technology, Minneapolis, MN
 
 ## Community and Service
+- Guest Associate Editor for Frontiers in [Integrative Genomics and Network Biology in Livestock and other Domestic Animals](https://www.frontiersin.org/research-topics/8507/integrative-genomics-and-network-biology-in-livestock-and-other-domestic-animals)
 - Host and Mentor for [Mozilla Open Leadership Program](https://mozilla.github.io/leadership-training/)
 - Co-Chair of [FAANG Integrative Genomics and Network Biology Working Group](https://www.faang.org/groups?ticket=&name=analysis-network&email=)
 - Site Host for [Mozilla Global Code Sprint](https://mozilla.github.io/global-sprint/) (4 years)
