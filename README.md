@@ -27,10 +27,10 @@
 
 ## Current Funding
 - 2018 (PI): $7,445 - XSEDE (TG-MCB180114) - Cloud based containers and workflows for genomic tools in the horse.
-- 2017-Current (Co-PI): USDA NIFA (2017-67015-26296) - Tools to Link Phenotype to Genotype in the Horse.
+- 2017 - Current (Co-PI): USDA NIFA (2017-67015-26296) - Tools to Link Phenotype to Genotype in the Horse.
 
 ## Past Funding
-- 2015-2018 (PI) : $150,000 - [USDA NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) - Discovering causal variants for complex disease using functional networks in the horse
+- 2015 - 2018 (PI) : $150,000 - [USDA NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) - Discovering causal variants for complex disease using functional networks in the horse
 
 ## Research Interests
 One of the consequences of next generation DNA sequencing technology has been
