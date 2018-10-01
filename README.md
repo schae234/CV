@@ -3,7 +3,7 @@
 <h1 align='center'> Robert James Schaefer, PhD </h1>
 
 ## Contacts
-- Email: rob@linkage.io, schae234@umn.edu, scha234@gmail.com
+- Email: rob@linkage.io/schae234@umn.edu/scha234@gmail.com
 - Github: github.com/schae234
 - Twitter: @CSciBio
 - OrcidID: 0000-0001-9455-5805
