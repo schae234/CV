@@ -120,6 +120,8 @@ effectively impute hundreds of thousands of genetic markers starting from the
 current density of 54 thousand markers.
 
 ## Awards and Honors
+- November 2018
+  - Awarded the Equine Geneome Workshop Travel Grant to present research at the 2019 Plant and Animal Genome Conference
 - January 2017
   - Awarded UMII Updraft grant to attend a Network Biology Meeting in Cold Spring Harbor
   - Awarded Microbial and Plant Genomics Institute travel grant to present research at the Maize Genetics Conference
