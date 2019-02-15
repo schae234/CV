@@ -120,6 +120,8 @@ effectively impute hundreds of thousands of genetic markers starting from the
 current density of 54 thousand markers.
 
 ## Awards and Honors
+- January 2019
+  - Awarded the MPGI Travel grant to present computational tools at various workshops
 - November 2018
   - Awarded the Equine Geneome Workshop Travel Grant to present research at the 2019 Plant and Animal Genome Conference
 - January 2017
@@ -186,10 +188,14 @@ current density of 54 thousand markers.
 - Ruth Swanson-Wagner, Roman Briskine, **Robert Schaefer**, Matthew B. Hufford, Jeffrey Ross-Ibarra, Chad L. Myers, Peter Tiffin, and Nathan M. Springer. Reshaping of the maize transcriptome by domestication. PNAS 2012 109:11878-11883 doi: https://doi.org/10.1073/pnas.1201961109
 
 
-## Meetings and Talks
+## Meetings and Talks and Hack-a-thons
 2018:
 - (talk/demo) Havemeyer Horse Genetics Workshop, Pavia, Italy. Processing tens of millions of genotypes with HapDab and analyzing tissue specific gene co-expression networks with Camoco.
+- (hack-a-thon) Equine Gene Annotation Hack-Con. Host. St. Paul, MN.
+- (hack-a-thon) Rocky Mountain Hack-a-thon. Boulder, CO.
+- (hack-a-thon) Mozilla Global Code Sprint. Host. St. Paul, MN.
 - (Software demo) Plant and Animal Genome Conference, San Diego, CA. Identifying High Priority Candidate Genes from GWAS using Co-Expression Networks.
+- (Invited Talk) Bio5 Institute and Cyverse. Tucson AZ. Using Co-expression networks to unravel gene function in agricultrual species.
 
 2017:
 - (talk) Hamline Bio Seminar. From the laptop to the field: using computer science to unravel gene function in agricultural plants and animals.
