@@ -161,7 +161,7 @@ current density of 54 thousand markers.
 ## Publications
 2018:
 - Sabine Felkel, Claus Vogl, Doris Rigler, Viktoria Dobretsberger, Bhanu P Chowdhary, Ottmar Distl, Ruedi Fries, Vidhya Jagannathan, Jan E Janečka, Tosso Leeb, Gabriella Lindgren, Molly McCue, Julia Metzger, Markus Neuditschko, Thomas Rattei, Terje Raudsepp, Stefan Rieder, Carl-Johan Rubin, **Robert Schaefer**, Christian Schlötterer, Georg Thaller, Jens Tetens, Brandon Velie, Gottfried Brem, and Barbara Wallner. The horse Y chromosome as an informative marker for tracing sire lines. (Accepted)
-- Samantha Beeson, **Robert Schaefer**, Victor Mason, Molly E McCue. Robust remapping of equine SNP array coordinates to EquCab3. Animal Genetics. (In-Press)
+- Samantha Beeson, **Robert Schaefer**, Victor Mason, Molly E McCue. Robust remapping of equine SNP array coordinates to EquCab3. Animal Genetics. https://doi.org/10.1111/age.12745
 - **Robert J Schaefer**, Jean-Michel Michno, Joseph Jeffers, Owen Hoekenga, Brian Dilkes, Ivan Baxter, Chad Myers. Integrating co-expression networks with GWAS to prioritize causal genes in maize. The Plant Cell. DOI: https://doi.org/10.1101/221655
 - Felipe Avila, James R. Mickelson, **Robert J. Schaefer**, Molly E. McCue. Genome-wide signatures of selection reveal genes associated with performance in American Quarter Horse subpopulations. Frontiers in Genetics - Livestock Genomics. DOI: https://doi.org/10.3389/fgene.2018.00249
 - Victor Mason, **Robert Schaefer**, Molly McCue, Tosso Leeb, Vinzenz Gerber. eQTL Discovery and their Association with Severe Equine Asthma in European Warmblood Horses. BMC Genomics. DOI: https://doi.org/10.1186/s12864-018-4938-9
