@@ -26,10 +26,11 @@
 - [Figshare Ambassador](https://figshare.com/ambassadors)
 
 ## Current Funding
-- 2018 (PI): $7,445 - XSEDE (TG-MCB180114) - Cloud based containers and workflows for genomic tools in the horse.
 - 2017 - Current (Co-PI): USDA NIFA (![2017-67015-26296](https://test-portal.nifa.usda.gov/web/crisprojectpages/1011941-tools-to-link-phenotype-to-genotype-in-the-horse.html)) - Tools to Link Phenotype to Genotype in the Horse.
 
 ## Past Funding
+- 2019 (PI): $8,500 - Mozilla Mini Grant - [LinkageHub: find, share, track, and re-use core genetic datasets](https://www.linkage.io/we-got-a-mozilla-science-mini-grant/).
+- 2018 (PI): $7,445 - XSEDE (TG-MCB180114) - Cloud based containers and workflows for genomic tools in the horse.
 - 2015 - 2018 (PI) : $150,000 - [USDA NIFA Postdoctoral Fellowship](https://portal.nifa.usda.gov/web/crisprojectpages/1008816-discovering-causal-variants-for-complex-disease-using-functional-networks-in-the-horse.html) - Discovering causal variants for complex disease using functional networks in the horse
 
 ## Research Interests
