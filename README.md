@@ -190,6 +190,15 @@ current density of 54 thousand markers.
 
 
 ## Meetings and Talks and Hack-a-thons
+2020:
+- (Poster) Plant and Animal Genome Conference, San Diego, CA. Whole Genome Imputation in the Horse
+- (Invited Seminar) Society of Comparative and Integrative Biology, Austin, TX. Using Camoco to integrate genome-wide association studies with context specific co-expression networks in 🌽 and 🐴.
+2019:
+- (Invited Seminar) UCD School of Agriculture and Food Science, Dublin Ireland. Integrating GWAS SNPs with CoExpression Networks to Prioritize Candidate Genes in Complex Traits
+- (hack-a-thon) Colorado Gold Rust, Denver, CO.
+- (hack-a-thon) Rocky Mountain Hack-a-thon. Boulder, CO. Team Lead: COB.
+- (poster) Maize Genetics Conference, St. Louis, MO. The transcriptional landscape of diverse maize genotypes
+- (poster) Plant and Animal Genomics Conference, San Diego, CA. Cloud Scalable Computational Tools for the Horse Genome
 2018:
 - (talk/demo) Havemeyer Horse Genetics Workshop, Pavia, Italy. Processing tens of millions of genotypes with HapDab and analyzing tissue specific gene co-expression networks with Camoco.
 - (hack-a-thon) Equine Gene Annotation Hack-Con. Host. St. Paul, MN.
