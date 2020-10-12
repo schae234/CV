@@ -160,9 +160,16 @@ current density of 54 thousand markers.
 - 2008-2010: Research Assistant, Dept. of Animal Science and Veterinary Medicine, University of Minnesota, MN
 
 ## Publications
-2018:
-- Sabine Felkel, Claus Vogl, Doris Rigler, Viktoria Dobretsberger, Bhanu P Chowdhary, Ottmar Distl, Ruedi Fries, Vidhya Jagannathan, Jan E Janečka, Tosso Leeb, Gabriella Lindgren, Molly McCue, Julia Metzger, Markus Neuditschko, Thomas Rattei, Terje Raudsepp, Stefan Rieder, Carl-Johan Rubin, **Robert Schaefer**, Christian Schlötterer, Georg Thaller, Jens Tetens, Brandon Velie, Gottfried Brem, and Barbara Wallner. The horse Y chromosome as an informative marker for tracing sire lines. (Accepted)
+2020:
+-  **Robert J Schaefer**, Jonah Cullen, Jane Manfredi, Molly McCue. Functional contexts of adipose and gluteal muscle tissue gene co-expression networks in the domestic horse. Integrative and Comparative Biology.  https://doi.org/10.1093/icb/icaa134
+- **Robert J Schaefer**, Molly E McCue. Equine Genotyping Arrays. Veterinary Clinics: Equine Practice. https://doi.org/10.1016/j.cveq.2020.03.001
+
+2019:
 - Samantha Beeson, **Robert Schaefer**, Victor Mason, Molly E McCue. Robust remapping of equine SNP array coordinates to EquCab3. Animal Genetics. https://doi.org/10.1111/age.12745
+- Sabine Felkel, Claus Vogl, Doris Rigler, Viktoria Dobretsberger, Bhanu P Chowdhary, Ottmar Distl, Ruedi Fries, Vidhya Jagannathan, Jan E Janečka, Tosso Leeb, Gabriella Lindgren, Molly McCue, Julia Metzger, Markus Neuditschko, Thomas Rattei, Terje Raudsepp, Stefan Rieder, Carl-Johan Rubin, **Robert Schaefer**, Christian Schlötterer, Georg Thaller, Jens Tetens, Brandon Velie, Gottfried Brem, and Barbara Wallner. The horse Y chromosome as an informative marker for tracing sire lines. Scientific Reports (Nature Publisher Group). https://doi.org/10.1038/s41598-0
+- Hui Zhang, Ming Li Wang, **Robert Schaefer**, Phat Dang, Tao Jiang, Charles Chen. GWAS and coexpression network reveal ionomic variation in cultivated peanut. Journal of agricultural and food chemistry. https://doi.org/10.1021/acs.jafc.9b04939
+
+2018:
 - **Robert J Schaefer**, Jean-Michel Michno, Joseph Jeffers, Owen Hoekenga, Brian Dilkes, Ivan Baxter, Chad Myers. Integrating co-expression networks with GWAS to prioritize causal genes in maize. The Plant Cell. DOI: https://doi.org/10.1101/221655
 - Felipe Avila, James R. Mickelson, **Robert J. Schaefer**, Molly E. McCue. Genome-wide signatures of selection reveal genes associated with performance in American Quarter Horse subpopulations. Frontiers in Genetics - Livestock Genomics. DOI: https://doi.org/10.3389/fgene.2018.00249
 - Victor Mason, **Robert Schaefer**, Molly McCue, Tosso Leeb, Vinzenz Gerber. eQTL Discovery and their Association with Severe Equine Asthma in European Warmblood Horses. BMC Genomics. DOI: https://doi.org/10.1186/s12864-018-4938-9
