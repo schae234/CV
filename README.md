@@ -71,6 +71,11 @@
 - 2008-2010: Research Assistant, Dept. of Animal Science and Veterinary Medicine, University of Minnesota, MN
 
 ## Publications
+2021:
+- (in-prep) S.A. Durward-Akhurst, **R.J. Schaefer**, K. Springer, B. Grantham, K. Carey, J.R. Mickelson, M.E. McCue. The genetic burden and frequency of disease-associated variants in the equine population. 
+- (in-prep) S.A. Durward-Akhurst, **R.J. Schaefer**, B. Grantham, K. Carey, J.R. Mickelson, M.E. McCue. Genetic variation and the distribution of variant types in the horse.
+- Kumar, Rohit; Gyawali, Abiskar; Morrison, Ginnie; Saski, Christopher; Robertson, Daniel; Cook, Douglas;  Tharayil, Nishanth; **Schaefer, Robert**; Beissinger, Tim; Sekhon, Rajandeep. Genetic Architecture of Maize Rind Strength Revealed by the Analysis of Divergently Selected Populations.  Plant and Cell Physiology.
+
 2020:
 -  **Robert J Schaefer**, Jonah Cullen, Jane Manfredi, Molly McCue. Functional contexts of adipose and gluteal muscle tissue gene co-expression networks in the domestic horse. Integrative and Comparative Biology.  https://doi.org/10.1093/icb/icaa134
 - **Robert J Schaefer**, Molly E McCue. Equine Genotyping Arrays. Veterinary Clinics: Equine Practice. https://doi.org/10.1016/j.cveq.2020.03.001
