@@ -72,9 +72,9 @@
 
 ## Publications
 2021:
-- (in-prep) S.A. Durward-Akhurst, **R.J. Schaefer**, K. Springer, B. Grantham, K. Carey, J.R. Mickelson, M.E. McCue. The genetic burden and frequency of disease-associated variants in the equine population. 
-- (in-prep) S.A. Durward-Akhurst, **R.J. Schaefer**, B. Grantham, K. Carey, J.R. Mickelson, M.E. McCue. Genetic variation and the distribution of variant types in the horse.
-- Kumar, Rohit; Gyawali, Abiskar; Morrison, Ginnie; Saski, Christopher; Robertson, Daniel; Cook, Douglas;  Tharayil, Nishanth; **Schaefer, Robert**; Beissinger, Tim; Sekhon, Rajandeep. Genetic Architecture of Maize Rind Strength Revealed by the Analysis of Divergently Selected Populations.  Plant and Cell Physiology.
+- (in-prep) S.A. Durward-Akhurst, **R.J. Schaefer**, K. Springer, B. Grantham, K. Carey, J.R. Mickelson, M.E. McCue. The genetic burden and frequency of disease-associated variants in the equine population.
+- S.A. Durward-Akhurst, **R.J. Schaefer**, B. Grantham, K. Carey, J.R. Mickelson, M.E. McCue. Genetic variation and the distribution of variant types in the horse. Frontiers in Genetics. https://doi.org/10.3389/fgene.2021.758366
+- Kumar, Rohit; Gyawali, Abiskar; Morrison, Ginnie; Saski, Christopher; Robertson, Daniel; Cook, Douglas;  Tharayil, Nishanth; **Schaefer, Robert**; Beissinger, Tim; Sekhon, Rajandeep. Genetic Architecture of Maize Rind Strength Revealed by the Analysis of Divergently Selected Populations.  Plant and Cell Physiology. https://doi.org/10.1093/pcp/pcab059
 
 2020:
 -  **Robert J Schaefer**, Jonah Cullen, Jane Manfredi, Molly McCue. Functional contexts of adipose and gluteal muscle tissue gene co-expression networks in the domestic horse. Integrative and Comparative Biology.  https://doi.org/10.1093/icb/icaa134
