@@ -9,7 +9,7 @@
 - OrcidID: 0000-0001-9455-5805
 
 ## Appointments and Positions
-- 2020 - **Present**: Software Flight Test Engineer at [Boom Supersonic](https://boomsupersonic.com/), Denver, CO
+- 2020 - **Present**: Software Flight Test Engineer on [XB-1](https://boomsupersonic.com/xb-1) at [Boom Supersonic](https://boomsupersonic.com/), Denver, CO
 - 2017 - **Present**: Founder of [Linkage Analytics](http://linkage.io), Denver, CO
 - 2018 - 2020: Postdoctoral Associate, Department of Population Medicine, University of Minnesota
 - 2016 - 2018: USDA NIFA Postdoctoral Research Fellow, Department of Veterinary Population Medicine, University of Minnesota
