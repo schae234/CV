@@ -72,9 +72,11 @@
 - 2008-2010: Research Assistant, Dept. of Animal Science and Veterinary Medicine, University of Minnesota, MN
 
 ## Publications
+2024:
+- S.A. Durward-Akhurst, **R.J. Schaefer**, K. Springer, B. Grantham, W. Carey, J.R. Mickelson, M.E. McCue. J.M. Marlowe, R.R. Bellone. Predicted genetic burden and frequency of phenotype-associated variants in the horse. Scientific Reports. (in-press)
 2021:
-- S.A. Durward-Akhurst, **R.J. Schaefer**, B. Grantham, K. Carey, J.R. Mickelson, M.E. McCue. The genetic burden and frequency of disease-associated variants in the equine population. Frontiers in Genetics. https://doi.org/10.3389%2Ffgene.2021.758366
-- S.A. Durward-Akhurst, **R.J. Schaefer**, B. Grantham, K. Carey, J.R. Mickelson, M.E. McCue. Genetic variation and the distribution of variant types in the horse. Frontiers in Genetics. https://doi.org/10.3389/fgene.2021.758366
+- S.A. Durward-Akhurst, **R.J. Schaefer**, B. Grantham, W. Carey, J.R. Mickelson, M.E. McCue. The genetic burden and frequency of disease-associated variants in the equine population. Frontiers in Genetics. https://doi.org/10.3389%2Ffgene.2021.758366
+- S.A. Durward-Akhurst, **R.J. Schaefer**, B. Grantham, W. Carey, J.R. Mickelson, M.E. McCue. Genetic variation and the distribution of variant types in the horse. Frontiers in Genetics. https://doi.org/10.3389/fgene.2021.758366
 - Kumar, Rohit; Gyawali, Abiskar; Morrison, Ginnie; Saski, Christopher; Robertson, Daniel; Cook, Douglas;  Tharayil, Nishanth; **Schaefer, Robert**; Beissinger, Tim; Sekhon, Rajandeep. Genetic Architecture of Maize Rind Strength Revealed by the Analysis of Divergently Selected Populations.  Plant and Cell Physiology. https://doi.org/10.1093/pcp/pcab059
 
 2020:
