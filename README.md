@@ -9,7 +9,7 @@
 - OrcidID: 0000-0001-9455-5805
 
 ## Appointments and Positions
-- 2020 - **Present**: Software Flight Test Engineer on [XB-1](https://boomsupersonic.com/xb-1) at [Boom Supersonic](https://boomsupersonic.com/), Denver, CO
+- 2020 - **Present**: Senior Data Scientist on [XB-1](https://boomsupersonic.com/xb-1) at [Boom Supersonic](https://boomsupersonic.com/), Denver, CO
 - 2017 - **Present**: Founder of [Linkage Analytics](http://linkage.io), Denver, CO
 - 2018 - 2020: Postdoctoral Associate, Department of Population Medicine, University of Minnesota
 - 2016 - 2018: USDA NIFA Postdoctoral Research Fellow, Department of Veterinary Population Medicine, University of Minnesota
@@ -73,7 +73,7 @@
 
 ## Publications
 2024:
-- S.A. Durward-Akhurst, **R.J. Schaefer**, K. Springer, B. Grantham, W. Carey, J.R. Mickelson, M.E. McCue. J.M. Marlowe, R.R. Bellone. Predicted genetic burden and frequency of phenotype-associated variants in the horse. Scientific Reports. (in-press).
+- S.A. Durward-Akhurst, **R.J. Schaefer**, K. Springer, B. Grantham, W. Carey, J.R. Mickelson, M.E. McCue. J.M. Marlowe, R.R. Bellone. Predicted genetic burden and frequency of phenotype-associated variants in the horse. Scientific Reports.
 
 2021:
 - S.A. Durward-Akhurst, **R.J. Schaefer**, B. Grantham, W. Carey, J.R. Mickelson, M.E. McCue. The genetic burden and frequency of disease-associated variants in the equine population. Frontiers in Genetics. https://doi.org/10.3389%2Ffgene.2021.758366
